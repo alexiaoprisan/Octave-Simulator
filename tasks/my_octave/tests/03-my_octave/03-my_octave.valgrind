@@ -1,0 +1,15 @@
+==621== Memcheck, a memory error detector
+==621== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==621== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==621== Command: /mnt/c/Users/akeki/Desktop/Tema2nou/my_octave
+==621== Parent PID: 620
+==621== 
+==621== 
+==621== HEAP SUMMARY:
+==621==     in use at exit: 0 bytes in 0 blocks
+==621==   total heap usage: 101 allocs, 101 frees, 11,336 bytes allocated
+==621== 
+==621== All heap blocks were freed -- no leaks are possible
+==621== 
+==621== For lists of detected and suppressed errors, rerun with: -s
+==621== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
